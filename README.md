@@ -1,4 +1,9 @@
-### Hi there 👋
+🖐️ Hi there, I'm Hans-Jörg Wittsack  @hjw-ukd
+
+👀 I'm interested in magnetic resonance imaging and medical image processing.
+
+
+
 
 <!--
 **hjw-ukd/hjw-ukd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
